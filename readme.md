@@ -1,3 +1,5 @@
+FORK OF /wr/dogecoinpaperwallet ONLY TO CHANGE THE APPERANCE OF THE WALLET 
+
 ![wow-such-money](http://wellsosaur.us/T70V/wow-such-doge.jpg)
 # Dogecoin Paper Wallet
 - [Live Preview](http://dogecoinpaperwallet.net)
